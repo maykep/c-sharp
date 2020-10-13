@@ -9,6 +9,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
+            Console.Write("Testando");
             Console.Write("Enter department's name: ");
             string deptName = Console.ReadLine();
             Console.WriteLine("Enter worker data:");
